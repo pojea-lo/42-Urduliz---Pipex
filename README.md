@@ -9,3 +9,7 @@ Documentación interesante:
 * Teoría de unix:
 
       https://swcarpentry.github.io/shell-novice-es/
+      
+* System con fork, exec y wait
+      
+      http://sopa.dis.ulpgc.es/prog_c/PROCES.HTM
