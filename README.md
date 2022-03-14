@@ -10,6 +10,10 @@ Documentación interesante:
 
       https://swcarpentry.github.io/shell-novice-es/
       
-* System con fork, exec y wait
+* System con fork, exec y wait:
       
       http://sopa.dis.ulpgc.es/prog_c/PROCES.HTM
+      
+* Execve:
+      
+      http://sopa.dis.ulpgc.es/ii-dso/lecminix/mm/exec/exec.pdf
