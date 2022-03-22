@@ -25,5 +25,7 @@ Documentación interesante:
 *Informacion de pipe:
       
       https://jameshfisher.com/2017/02/17/how-do-i-call-a-program-in-c-with-pipes/
+      
+      https://www.youtube.com/c/WhileTrueThenDream/videos
 
 
