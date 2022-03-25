@@ -1,6 +1,7 @@
 NAME = pipex
 
 MAN = 	pipex.c\
+		pipex_utils_0.c\
 		ft_split.c\
 		ft_str.c
 

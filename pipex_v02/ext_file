@@ -1,0 +1,16 @@
+total 240
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz    385 Mar 25 12:38 Makefile
+-rw-r--r--  1 pojea-lo  2021_urduliz   1017 Mar 25 14:27 ext_file
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz   2146 Mar 25 00:01 ft_split.c
+-rw-r--r--  1 pojea-lo  2021_urduliz   1964 Mar 25 14:26 ft_split.o
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz   2706 Mar 25 00:01 ft_str.c
+-rw-r--r--  1 pojea-lo  2021_urduliz   2620 Mar 25 14:26 ft_str.o
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz   1675 Mar 25 00:01 ft_substr.c
+-rw-r--r--  1 pojea-lo  2021_urduliz      0 Mar 23 17:15 int_file
+-rwxr-xr-x  1 pojea-lo  2021_urduliz  71536 Mar 25 14:26 pipex
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz   2703 Mar 25 12:38 pipex.c
+drwxr-xr-x  3 pojea-lo  2021_urduliz    102 Mar 25 14:26 pipex.dSYM
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz   1777 Mar 25 14:02 pipex.h
+-rw-r--r--  1 pojea-lo  2021_urduliz   3476 Mar 25 14:26 pipex.o
+-rw-rw-r--@ 1 pojea-lo  2021_urduliz    921 Mar 25 14:26 pipex_utils_0.c
+-rw-r--r--  1 pojea-lo  2021_urduliz   1336 Mar 25 14:26 pipex_utils_0.o
