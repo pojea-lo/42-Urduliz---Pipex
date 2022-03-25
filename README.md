@@ -27,5 +27,7 @@ Documentación interesante:
       https://jameshfisher.com/2017/02/17/how-do-i-call-a-program-in-c-with-pipes/
       
       https://www.youtube.com/c/WhileTrueThenDream/videos
+      
+      https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q
 
 
