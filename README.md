@@ -2,9 +2,11 @@
 
 Documentación interesante:
 
-* Los 50 comandos shell mas interesantes:
+* Páginas web con listas de comandos shell:
 
       https://sanchezcorbalan.es/mejores-comandos-linux-bash/
+      
+      https://www.ionos.es/digitalguide/servidores/configuracion/comandos-de-linux-la-lista-fundamental/
       
 * Teoría de unix:
 
