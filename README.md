@@ -2,9 +2,9 @@
 
 ***Del repositorio:
 
-1 - "Envío": proyecto terminado con bonus pero con fallo en el open
+1 - "Entregado": proyecto terminado con bonus pero con fallo en el open
 
-2 - "Envío_01": proycto terminado y terminado
+2 - "Entregado_01": proycto terminado y terminado
 
 3 - "Pipex comentado": proyecto sin pasar norma con comentarios
 
