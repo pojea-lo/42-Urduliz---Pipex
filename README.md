@@ -1,6 +1,12 @@
-# 42-Urduliz---Pipex
+# 42-Urduliz---Pipex:
 
-Documentación interesante:
+***Del repositorio:
+
+1 - "Envío": proyecto terminado con bonus pero con fallo en el open
+2 - "Envío_01": proycto terminado y terminado
+3 - "Pipex comentado": proyecto sin pasar norma con comentarios
+
+***Documentación interesante:
 
 * Páginas web con listas de comandos shell:
 
